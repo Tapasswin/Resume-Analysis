@@ -1,8 +1,7 @@
 # Resume-Analysis
 Analyze the Resume using the Job discription and make changes according to it.
 
-## Streamlit run app.py
-After running the command we can see the below application where we can provide the JD and upload the resume and analysis it.
+After running `Streamlit run app.py` command we can see the below application where we can provide the JD and upload the resume and analysis it.
 
 ### Output
 - Job Match Percentage
