@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+#pip install -U "huggingface_hub[cli]"
